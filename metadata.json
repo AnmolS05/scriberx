@@ -1,0 +1,6 @@
+{
+  "name": "ScribeRx",
+  "description": "Ingest handwritten medical prescriptions, extract clinical details using Gemini, and sync with inventory and patient alert schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

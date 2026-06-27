@@ -1,0 +1,41 @@
+# --- Dependencies ---
+node_modules/
+
+# --- Build Output ---
+build/
+dist/
+
+# --- Test Coverage ---
+coverage/
+
+# --- Environment Variables ---
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# --- OS Generated ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Logs ---
+*.log
+npm-debug.log*
+
+# --- Editor / IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Runtime Data ---
+src_db_store.json
+
+# --- Internal / Personal Documentation ---
+textbook.md
+PLAN.md
+PRD.md
+
+# --- AI Studio Metadata ---
+assets/.aistudio/
